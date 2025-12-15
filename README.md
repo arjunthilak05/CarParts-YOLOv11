@@ -40,10 +40,3 @@ DL/
 └── README.md                      # This file
 ```
 
-## ✅ Submission Checklist
-- [x] Completed Notebook
-- [x] PDF Export
-- [x] mAP & Visualization Results
-- [x] Difficult Class Analysis
-
-**Deadline**: Dec 28, 2025 | **License**: Educational Use
